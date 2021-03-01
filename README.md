@@ -1,5 +1,5 @@
 ## Fala Devs :vulcan_salute: 
-## Matriz Transposta - Java  
+## Matriz Transposta - Java  :man_technologist:
 ### A transposta de uma matriz A é uma matriz que apresenta os mesmos elementos de A, só que colocados em uma posição diferente. Ela é obtida transportando-se ordenadamente os elementos das linhas de A para as colunas da transposta.  
 
 [![Linkedin Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://www.w3schools.com/java/default.asp)](https://www.w3schools.com/java/default.asp)
